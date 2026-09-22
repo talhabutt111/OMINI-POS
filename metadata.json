@@ -1,0 +1,6 @@
+{
+  "name": "OmniPOS - AI Point of Sale & Intelligence",
+  "description": "Full-stack POS system with real-time inventory management, multi-role cashier/admin auth, checkout with PDF receipts, and AI-powered sales reporting agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
